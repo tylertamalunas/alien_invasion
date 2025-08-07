@@ -4,4 +4,6 @@
 - pygame lets you treat all game elements like rectangles (rect)
     - rects are simple and efficient shapes
 - in pygame, coordinates start at the top left as 0,0
+- single _ indicates a helper method
+    - they are only used within the class
 - 
