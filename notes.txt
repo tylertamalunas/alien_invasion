@@ -1,0 +1,7 @@
+- __init__ initializes game and its resources.
+- frame rate is controlled by the Clock() method in the main file.
+- settings file allows modifying the game behavior and appearance from a single file
+- pygame lets you treat all game elements like rectangles (rect)
+    - rects are simple and efficient shapes
+- in pygame, coordinates start at the top left as 0,0
+- 
