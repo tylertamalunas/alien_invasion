@@ -6,4 +6,5 @@
 - in pygame, coordinates start at the top left as 0,0
 - single _ indicates a helper method
     - they are only used within the class
+- pygame.event.get() is used to pick up keypresses
 - 
